@@ -1,0 +1,18 @@
+---
+title: "Products & Services"
+---
+
+<ul id="prodlist">
+{% assign products = site.products | sort: 'position' %}
+{% for product in products %}
+  <li class="shortitem">
+    <a href="{{ product.url }}">
+      <img src="/img/{{ product.slug }}.png" alt="Go to {{ product.title }}" width="140" height="100" />
+    </a>
+    <a class="prodname" href="{{ product.url }}">
+      {{ product.title }}
+    </a>
+    <p>{{ product.description }}</p>
+  </li>
+{% endfor %}
+</ul>

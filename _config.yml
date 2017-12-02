@@ -1,0 +1,29 @@
+# Site settings
+title: "Bayou Surgical Solutions — New and Used Medical Equipment"
+description: The highest quality medical products at the most competitive prices, satisfaction guaranteed
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bayou.stevegrossi.com"
+logo: /img/logo.png
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from _site
+exclude:
+  - CNAME
+  - README.markdown
+  - Gemfile
+  - Gemfile.lock
+
+collections:
+  products:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
