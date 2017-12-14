@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.bayousurgicalsolutions.com"
 logo: /img/logo.png
 permalink: pretty
+phone: "318-218-4831"
 
 plugins:
   - jekyll-sitemap
