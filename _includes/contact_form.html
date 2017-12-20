@@ -1,31 +1,45 @@
-<h2>Contact Us</h2>
-<p><span class="phone">{{ site.phone }}</span></p>
-<p>or use the form below:</p>
+<section class="ContactForm">
+  <h2>Contact Us</h2>
+  <div class="halves">
+    <div class="half">
+      <p>Call <span class="ContactForm-big">{{ site.phone }}</span></p>
+    </div>
+    <div class="half">
+      <p>Email <span class="ContactForm-big">{{ site.email }}</span></p>
+    </div>
+  </div>
 
-<form action="https://formcarry.com/s/ryqWaV1Wf" method="post">
-  <p>
-    Your Name (required)<br />
-    <input type="text" name="name" required />
-  </p>
-  <p>
-    Your Facility<br />
-    <input type="text" name="facility" />
-  </p>
-  <p>
-    Your Phone Number<br />
-    <input type="phone" name="phone" />
-  </p>
-  <p>
-    Your Email (required)<br />
-    <input type="email" name="email" required />
-  </p>
-  <p>
-    Subject<br />
-    <input type="text" name="subject" size="40" />
-  </p>
-  <p>
-    Your Message<br />
-    <textarea name="message" cols="30" rows="5"></textarea>
-  </p>
-  <p><input type="submit" value="Send" /></p>
-</form>
+  <form action="https://formcarry.com/s/ryqWaV1Wf" method="post">
+    <div class="halves">
+      <div class="half">
+        <p>
+          <label for="contact-name">Name (required)</label>
+          <input id="contact-name" type="text" name="name" required />
+        </p>
+        <p>
+          <label for="contact-facility">Facility</label>
+          <input id="contact-facility" type="text" name="facility" />
+        </p>
+        <p>
+          <label for="contact-phone">Phone Number</label>
+          <input id="contact-phone" type="phone" name="phone" />
+        </p>
+        <p>
+          <label for="contact-email">Email (required)</label>
+          <input id="contact-email" type="email" name="email" required />
+        </p>
+      </div>
+      <div class="half">
+        <p>
+          <label for="contact-subject">Subject</label>
+          <input id="contact-subject" type="text" name="subject" size="40" />
+        </p>
+        <p>
+          <label for="contact-message">Message</label>
+          <textarea id="contact-message" name="message" cols="30" rows="5"></textarea>
+        </p>
+        <p><input type="submit" value="Send" /></p>
+      </div>
+    </div>
+  </form>
+</section>

@@ -24,4 +24,4 @@ Look no further! Bayou Surgical Solutions will handle all of your concerns in th
 - How do I find multiple buyers to get the most for my surplus depending on the product mix?
 - Which products will be bought and which will not be of interest?
 
-Have additional questions? [Contact Us!](/contact)
+Have additional questions? Contact Us!

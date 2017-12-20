@@ -54,4 +54,4 @@ Don't throw away your expired items. In the same in-date products we buy, there 
 
 - Implants in the original package
 
-And more! [Contact us](/contact)
+And more!
