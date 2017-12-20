@@ -1,25 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-
-  {% include head.html %}
-
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" media="all" href="/css/style.css" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <!--[if lt IE 8]>
+    <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+    <![endif]-->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    {% seo %}
+  </head>
   <body>
-    <div id="container">
-      <a name="top"></a>
-      {% include header.html %}
+    <div class="Header">
+      <a href="/" title="Home" class="Logo">
+        <img class="Logo-mark" src="/img/bayousurgicalsolutions.png" />
+        <span class="Logo-type">
+          <span class="Logo-big">Bayou</span>
+          <span class="Logo-small">Surgical Solutions</span>
+        </span>
+      </a>
+      <ul class="Menu">
+        <li><a href="/how-we-can-help">How We Can Help</a></li>
+        <li><a href="/products">Products We Buy &amp; Sell</a></li>
+        <li><a href="/about/">About Bayou</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </div>
 
-      <div id="article">
-        {{ content }}
-      </div>
-      <div id="sidebar">
-        {% if page.url == '/' %}
-          {% include sidebar_home.html %}
-        {% else %}
-          {% include sidebar.html %}
-        {% endif %}
-      </div>
+    <div role="main" class="Main">
+      {{ content }}
+    </div>
 
-      {% include footer.html %}
+    <div class="Footer">
+      <p>© Bayou Surgical Solutions</p>
     </div>
   </body>
 </html>

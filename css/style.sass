@@ -1,0 +1,68 @@
+---
+---
+
+@import "normalize"
+
+$primary-color: #006FBE
+$text-color: #333
+
+body
+  background: #ffffff
+  color: $text-color
+  font-family: "Open Sans", sans-serif
+  font-size: 100%
+
+a:link
+  color: $primary-color
+  &:hover
+    color: mix(#fff, $primary-color, 10%)
+  &:visited
+    color: mix(#000, $primary-color, 10%)
+
+.Header
+  box-shadow: 0 1px 3px rgba(0,0,0,.25)
+  display: flex
+  align-items: center
+  justify-content: space-between
+
+.Wrapper
+  max-width: 70em
+  margin: 0 auto
+
+.Logo
+  font-size: 1.75em
+  line-height: 1
+  text-decoration: none
+  color: $text-color
+  padding: 1rem
+  font-weight: bold
+  letter-spacing: -0.05em
+  &:link, &:hover, &:visited
+    color: $text-color
+  &-mark
+    display: inline-block
+    width: 80px
+    vertical-align: middle
+    margin-right: .5em
+  &-type
+    display: inline-block
+    vertical-align: middle
+  &-big
+    font-size: 1.25em
+    display: block
+
+.Menu
+  list-style: none
+  li
+    display: inline-block
+  a
+    text-decoration: none
+    color: $text-color
+    display: block
+    padding: 1em
+    border-radius: .25em
+    &:hover, &:focus
+      background-color: rgba(0,0,0,.1)
+
+.Footer
+  padding: 1em 0
