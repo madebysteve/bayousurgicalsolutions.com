@@ -2,6 +2,17 @@
 title: "Sell your Non-moving Sterile Disposables"
 ---
 
+<div class="Aside">
+  <h2>Frequently Asked Questions</h2>
+  <ul>
+    <li>Which companies buy expired or excess hospital supplies and surgical disposable products?</li>
+    <li>Which companies purchase surplus or non-moving surgical disposables?</li>
+    <li>Which companies offer no-cost services to help in the disposition process of hospital or surgery center inventory?</li>
+    <li>Which companies do on-site visits to purchase non-moving surgical disposables?</li>
+    <li>How do I recapture lost revenue on the surgical disposables I purchased?</li>
+  </ul>
+</div>
+
 # Sell your non-moving sterile disposables
 
 Want to get the most for your surplus surgical disposables and have all the work done for you?
