@@ -2,7 +2,7 @@
 title: "Sell your Non-moving Sterile Disposables"
 ---
 
-## Sell your non-moving sterile disposables
+# Sell your non-moving sterile disposables
 
 Want to get the most for your surplus surgical disposables and have all the work done for you?
 

@@ -2,20 +2,21 @@
 title: "Products We Buy & Sell"
 ---
 
-## We Buy Expired!
+<div class="box right">
+  <h2>We Buy Expired!</h2>
+  <p>Don't throw away your expired items. In the same in-date products we buy, there are expired items that our company may also purchase!</p>
+</div>
 
-Don't throw away your expired items. In the same in-date products we buy, there are expired items that our company may also purchase!
+# In-Date Products we Buy and Sell
 
-## In-Date Products we Buy and Sell
-
-### Endomechanical
+## Endomechanical
 
 - Ethicon
 - Covidien
 - Applies
 - Intuitive Surgical
 
-### Mesh
+## Mesh
 
 - Bard
 - Ethicon
@@ -23,13 +24,13 @@ Don't throw away your expired items. In the same in-date products we buy, there 
 - Oure
 - Seprafilm
 
-### Urology
+## Urology
 
 - Cook
 - Boston Scientific
 - Cath Lab Products
 
-### Sports Medicine
+## Sports Medicine
 
 - Arthrocare
 - Arthrex
@@ -38,19 +39,19 @@ Don't throw away your expired items. In the same in-date products we buy, there 
 - Mitek
 - Smith &amp; Nephew
 
-### Suture
+## Suture
 
 - Ethicon
 - Covidien
 - And more...
 
-### ENT
+## ENT
 
 - Medtronics
 - Accelerant
 - Intellus
 
-### Synthes
+## Synthes
 
 - Implants in the original package
 

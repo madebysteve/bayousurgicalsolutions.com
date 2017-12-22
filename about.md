@@ -1,8 +1,8 @@
 ---
-title: About Bayou
+title: "About Bayou"
 ---
 
-## About Bayou
+# About Bayou
 
 With over **27 years** of surgical representation experience our **vendor credentialed** team will provide the highest quality service!
 

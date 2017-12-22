@@ -12,29 +12,38 @@
   </head>
   <body>
     <div class="Header">
-      <a href="/" title="Home" class="Logo">
-        <img class="Logo-mark" src="/img/bayousurgicalsolutions.png" />
-        <span class="Logo-type">
-          <span class="Logo-big">Bayou</span>
-          <span class="Logo-small">Surgical Solutions</span>
-        </span>
-      </a>
-      <ul class="Menu">
-        <li><a href="/">How We Can Help</a></li>
-        <li><a href="/products">Products We Buy &amp; Sell</a></li>
-        <li><a href="/about/">About Bayou</a></li>
-        <li><a href="/contact/">Contact</a></li>
-      </ul>
+      <div class="Wrapper">
+        <a href="/" title="Home" class="Logo">
+          <img class="Logo-mark" src="/img/bayousurgicalsolutions.png" />
+          <span class="Logo-type">
+            <span class="Logo-big">Bayou</span>
+            <span class="Logo-small">Surgical Solutions</span>
+          </span>
+        </a>
+        <ul class="Menu">
+          <li><a href="/">How We Can Help</a></li>
+          <li><a href="/products">Products We Buy &amp; Sell</a></li>
+          <li><a href="/about/">About Bayou</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </div>
     </div>
 
-    <div role="main" class="Main">
-      {{ content }}
+    <div class="Main-wrapper">
+      <div role="main" class="Main">
+        <div class="Main-contentWrapper">
+          {{ content }}
+        </div>
+        {% if page.url != '/' %}
+          {% include contact_form.html %}
+        {% endif %}
+      </div>
     </div>
-
-    {% include contact_form.html %}
 
     <div class="Footer">
-      <p>© Bayou Surgical Solutions</p>
+      <div class="Wrapper">
+        <p>© Bayou Surgical Solutions</p>
+      </div>
     </div>
   </body>
 </html>

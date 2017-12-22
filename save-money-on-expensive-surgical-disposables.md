@@ -2,7 +2,7 @@
 title: "Save Money on Expensive Surgical Disposables"
 ---
 
-## Save money on those expensive surgical disposables you are buying
+# Save money on those expensive surgical disposables you are buying
 
 Want to save money on your expensive surgical disposable purchases?
 
