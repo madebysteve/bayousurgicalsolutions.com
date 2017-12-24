@@ -120,9 +120,6 @@ a:link
 .Menu
   float: right
   margin-top: 2em
-  list-style: none
-  li
-    display: inline-block
   a
     text-decoration: none
     color: $text-color
@@ -188,7 +185,27 @@ a:link
   width: 33%
   margin: 0 0 2em 2em
 
+.clear
+  clear: both
+
 .box
   background-color: mix($white, $primary-color, 90%)
   padding: 1em
   border-radius: $border-radius
+
+.fl
+  float: left
+
+.fr
+  float: right
+
+.InlineList
+  list-style: none
+  padding: 0
+  li
+    display: inline-block
+  &--bulleted
+    li:not(:last-child)
+      &:after
+        content: "•"
+        margin: 0 .5em
