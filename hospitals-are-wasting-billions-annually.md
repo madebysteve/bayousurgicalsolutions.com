@@ -4,7 +4,7 @@ title: "Hospitals are wasting billions annually due to expired surgical disposab
 
 # Hospitals are wasting billions annually due to expired surgical disposables
 
-![hospital waste](http://wastebusters.com.pk/wp-content/uploads/2016/12/hospital-waste2-1.jpg)
+<img class="right" src="http://wastebusters.com.pk/wp-content/uploads/2016/12/hospital-waste2-1.jpg" alt="Hospital waste ends up in landfills" />
 
 This is where your expensive, high-end medical and surgical disposables could end up if they expire, losing you tens of thousands of dollars that could be put back into your supply chain.
 
