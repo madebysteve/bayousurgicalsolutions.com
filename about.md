@@ -8,7 +8,7 @@ With over **27 years** of surgical representation experience our **vendor creden
 
 Our **proven business model** will work to get the **most money** for your non-moving surgical inventory!
 
-Our resources will help you **save money** on the purchase of these expensive medsurg sterile disposables:
+Our resources will help you **save money** on the purchase of those expensive medsurg sterile disposables:
 
 - non-contracted items
 - weak-contracted items

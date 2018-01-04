@@ -4,7 +4,7 @@ title: "Products We Buy & Sell"
 
 <div class="box right">
   <h2>We Buy Expired!</h2>
-  <p>Don't throw away your expired items. In the same in-date products we buy, there are expired items that our company may also purchase!</p>
+  <p>Don't throw away your expired items. In the same in-date products we buy, there are expired items that our company will also purchase!</p>
 </div>
 
 # In-Date Products we Buy and Sell
@@ -13,7 +13,7 @@ title: "Products We Buy & Sell"
 
 - Ethicon
 - Covidien
-- Applies
+- Applied
 - Intuitive Surgical
 
 ## Mesh
@@ -21,7 +21,7 @@ title: "Products We Buy & Sell"
 - Bard
 - Ethicon
 - Covidien
-- Oure
+- Gore
 - Seprafilm
 
 ## Urology
@@ -48,7 +48,7 @@ title: "Products We Buy & Sell"
 ## ENT
 
 - Medtronics
-- Accelerant
+- Acclarent
 - Intellus
 
 ## Synthes
