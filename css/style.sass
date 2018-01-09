@@ -61,12 +61,13 @@ input[type="submit"]
   font-weight: bold
   box-shadow: 0 1px 1px rgba(0,0,0,.25)
 
-a:link
-  color: $primary-color
+a
+  &:link
+    color: $primary-color
   &:hover
     color: mix($white, $primary-color, 10%)
   &:visited
-    color: mix($black, $primary-color, 10%)
+    color: #aaa
 
 .Header
   background-color: $white
