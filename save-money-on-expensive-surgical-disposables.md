@@ -16,13 +16,15 @@ title: "Save Money on Expensive Surgical Disposables"
 
 # Save money on those expensive surgical disposables you are buying
 
+<img class="right fourth Snapshot" src="/img/save-money-on-surgical-disposables.jpg" alt="Surgical disposable products" />
+
 Want to save money on your expensive surgical disposable purchases?
 
 Bayou Surgical Solutions can help you get the best prices for your surgical disposable products and provide the most availability, reducing out-of-stocks, on:
 
-<li>Non-contracted products
-<li>Weak-contracted products</li>
-<li>Slow-movers and buying by-the-each vs. by-the-case</li>
-<li>National backorders</li>
-</li>
+- Non-contracted products
+- Weak-contracted products
+- Slow-movers and buying by-the-each vs. by-the-case
+- National backorders
+
 Give us a call and we’ll tell you how it works!

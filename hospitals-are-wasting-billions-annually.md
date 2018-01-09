@@ -5,7 +5,7 @@ title: "Hospitals are wasting billions annually due to expired surgical disposab
 # Hospitals are wasting billions annually due to expired surgical disposables!
 
 <figure class="right">
-  <img src="http://wastebusters.com.pk/wp-content/uploads/2016/12/hospital-waste2-1.jpg" alt="Hospital waste ends up in landfills" />
+  <img class="Snapshot" src="http://wastebusters.com.pk/wp-content/uploads/2016/12/hospital-waste2-1.jpg" alt="Hospital waste ends up in landfills" />
   <figcaption><a href="https://www.propublica.org/article/want-to-lower-health-care-costs-stop-wasting-our-money">Want to Lower Health Care Costs? Stop Wasting Our Money.</a> — ProPublica</figcaption>
 </figure>
 
