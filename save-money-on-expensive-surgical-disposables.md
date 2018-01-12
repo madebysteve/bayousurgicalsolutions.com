@@ -1,5 +1,7 @@
 ---
 title: "Save Money on Expensive Surgical Disposables"
+redirect_from:
+  - /surgical-disposables/
 ---
 
 <div class="Aside">

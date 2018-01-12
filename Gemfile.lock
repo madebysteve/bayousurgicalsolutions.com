@@ -222,6 +222,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 171)
   jekyll (= 3.6.2)
+  jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
 

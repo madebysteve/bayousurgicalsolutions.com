@@ -7,4 +7,5 @@ group :jekyll_plugins do
   gem "github-pages", "171"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
+  gem "jekyll-redirect-from"
 end
