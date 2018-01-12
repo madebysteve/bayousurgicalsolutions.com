@@ -1,5 +1,5 @@
 ---
-title: "Sell your Non-moving Sterile Disposables"
+title: "Sell Your Non-moving Sterile Disposables"
 ---
 
 <div class="Aside">
@@ -14,6 +14,8 @@ title: "Sell your Non-moving Sterile Disposables"
 </div>
 
 # Sell your non-moving sterile disposables
+
+<img class="right fourth Snapshot" src="/img/sell-non-moving-surgical-disposables.jpg" alt="Surgical disposable products" />
 
 Want to get the most for your surplus surgical disposables and have all the work done for you?
 
