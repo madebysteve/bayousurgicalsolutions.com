@@ -2,6 +2,8 @@
 title: "Sell Your Non-moving Sterile Disposables"
 ---
 
+# Sell your non-moving sterile disposables
+
 <div class="Aside">
   <h2>Frequently Asked Questions</h2>
   <ul>
@@ -12,8 +14,6 @@ title: "Sell Your Non-moving Sterile Disposables"
     <li>How do I recapture lost revenue on the surgical disposables I purchased?</li>
   </ul>
 </div>
-
-# Sell your non-moving sterile disposables
 
 <img class="right fourth Snapshot" src="/img/sell-non-moving-surgical-disposables.jpg" alt="Surgical disposable products" />
 

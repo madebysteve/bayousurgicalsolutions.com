@@ -4,6 +4,8 @@ redirect_from:
   - /surgical-disposables/
 ---
 
+# Save money on those expensive surgical disposables you are buying
+
 <div class="Aside">
   <h2>Frequently Asked Questions</h2>
   <ul>
@@ -15,8 +17,6 @@ redirect_from:
     <li>Where can I buy surgical disposable products when there is a national backorder by the manufacturer?</li>
   </ul>
 </div>
-
-# Save money on those expensive surgical disposables you are buying
 
 <img class="right fourth Snapshot" src="/img/save-money-on-surgical-disposables.jpg" alt="Surgical disposable products" />
 
