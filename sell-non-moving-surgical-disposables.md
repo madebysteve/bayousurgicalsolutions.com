@@ -19,7 +19,7 @@ title: "Sell Your Non-moving Sterile Disposables"
 
 Want to get the most for your surplus surgical disposables and have all the work done for you?
 
-Our team will handle the entire disposition process of selling your non-moving surgical disposables at no additioonal cost to you!
+Our team will handle the entire disposition process of selling your non-moving surgical disposables at no additional cost to you!
 
 Bayou Surgical Solutions has both the experience and resources to handle all your needs during the process of purging non-moving surgical disposables. We’ll get you the most money for all your surplus surgical disposable products by shopping them to the highest bidder.
 
