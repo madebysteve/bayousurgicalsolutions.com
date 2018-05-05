@@ -28,7 +28,7 @@ Site visits at no cost to you on larger surplus inventory deals which include id
 Call us today and we’ll help with your non-moving surplus inventory.
 
 <div class="Media">
-  <img class="fr Snapshot" src="http://wastebusters.com.pk/wp-content/uploads/2016/12/hospital-waste2-1.jpg" width="250" />
+  <img class="fr Snapshot" src="/img/hospital-waste.jpg" width="250" />
   <span class="Eyebrow">In The News</span>
   <h2>Hospitals are wasting billions annually due to expired surgical disposables</h2>
   <p><a class="Button" href="/hospitals-are-wasting-billions-annually">Learn More →</a></p>
